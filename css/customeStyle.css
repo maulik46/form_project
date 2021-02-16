@@ -18,6 +18,15 @@
 	background-color:#E662D7;
 	color:#fff;
 }
+
+.forgot-password-link{
+	color: #999999;
+}
+
+.remember-text{
+	color: #999999;
+}
+
 .d-btn-facebook{
 	background-color:#1B1464;
 	color:#fff!important;
@@ -37,7 +46,6 @@
 	background-color:#f1eded;
 	box-shadow: none;
 }
-
 
 .d-signup-form .terms-policy-text{
 	font-size: 14px;

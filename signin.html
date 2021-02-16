@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>SignUp</title>
+	<title>Sign In</title>
 	<link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/customeStyle.css">
 </head>
 <body>
 	<main class="form-bg-gradient d-flex justify-content-center align-items-center">
-		<div class="col-xl-7 col-lg-9 col-md-9 col-sm-9">
-			<div class="row bg-white shadow flex-nowrap mx-0">
+		<div class="col-xl-7 col-lg-9 col-md-11 col-sm-9">
+			<div class="row bg-white shadow-lg flex-nowrap mx-0">
 				<div class="col-lg-8 col-md-8 bg-white">
 					<form class="py-4 px-2 d-signup-form">
 						<div class="pb-3">
@@ -24,14 +24,14 @@
 							<div class="d-flex justify-content-between mb-3">
 								<div class="col">
 									<input type="checkbox" id="remeber-me" name="">
-									<label for="remeber-me">Remember Me</label>
+									<label for="remeber-me" class="remember-text">Remember Me</label>
 								</div>
 								<div class="col text-right">
-									<a href="#" >Forgot your password?</a>
+									<a href="#" class="forgot-password-link">Forgot your password?</a>
 								</div>
 							</div>
 							<div class="text-center">
-								<button  type="submit" class="btn btn-danger py-2 btn-signup rounded-sm">
+								<button  type="submit" class="btn py-2 d-btn-signup rounded-sm">
 									Continue
 								</button>
 							</div>
@@ -40,27 +40,27 @@
 						<hr>
 						<div class="mb-4">
 							<div class="col mb-2">
-								<a href="#" class="btn btn-block btn-info rounded-sm">
+								<a href="#" class="btn btn-block d-btn-facebook rounded-sm">
 									Sign in with Facebook
 								</a>
 							</div>
 							<div class="col mb-3">
-								<a href="#"  class="btn btn-block btn-primary rounded-sm">
+								<a href="#"  class="btn btn-block d-btn-google rounded-sm">
 									Sign in with Google
 								</a>
 							</div>
 						</div>
 					</form>
 				</div>
-				<div class="col-lg-4 col-md-4 d-none d-md-block bg-danger">
+				<div class="col-lg-4 col-md-4 d-none d-md-block form-left-gradient">
 					<div class="d-flex justify-content-center align-items-center h-100">
 						<div class="col-lg-12">
 							<div class="text-center text-white">
-								<h4>Sign Up!</h4>
+								<h3 class="font-weight-light">Sign Up!</h3>
 								<p class="font-size-14px">
 									Don't have an account yet?
 								</p>
-								<a href="signup.html" class="btn btn-warning btn-block rounded-sm d-btn">
+								<a href="signup.html" class="btn d-btn-signIn btn-block text-white rounded-sm d-btn">
 									Create an account
 								</a>
 							</div>
