@@ -14,6 +14,8 @@
 	background-color: #FF4E6F;
 	color:#fff!important;
 }
+
+
 .d-btn-signIn{
 	background-color:#E662D7;
 	color:#fff;
@@ -28,11 +30,11 @@
 }
 
 .d-btn-facebook{
-	background-color:#1B1464;
+	background-color:#29ABE2;
 	color:#fff!important;
 }
 .d-btn-google{
-	background-color:#29ABE2;
+	background-color:#1B1464;
 	color:#fff!important;
 }
 .d-signup-form input{
@@ -89,5 +91,17 @@
 }
 .font-size-24px{
 	font-size:24px;
+}
+
+
+@media screen and (max-width : 728px) {
+    .d-btn-signup{
+		width:200px;
+	}
+}
+@media screen and (max-width : 428px) {
+    .d-btn-signup{
+		width:150px;
+	}
 }
 
