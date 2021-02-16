@@ -96,12 +96,12 @@
 
 @media screen and (max-width : 728px) {
     .d-btn-signup{
-		width:200px;
+		width:70%;
 	}
 }
 @media screen and (max-width : 428px) {
     .d-btn-signup{
-		width:150px;
+		width:90%;
 	}
 }
 
