@@ -161,7 +161,7 @@
 
 @media screen and (max-width : 1228px) {
 	.form-bg-gradient{  
-		min-height: 110vh;
+		min-height: 105vh;
 	}
     .d-custom-width{
 		width:70%;
@@ -170,7 +170,7 @@
 
 @media screen and (max-width : 928px) {
 	.form-bg-gradient{  
-		min-height: 110vh;
+		min-height: 105vh;
 	}
     .d-custom-width{
 		width:70%;
@@ -179,7 +179,7 @@
 
 @media screen and (max-width : 728px) {
 	.form-bg-gradient{  
-		min-height: 120vh;
+		min-height: 110vh;
 	}
     .d-custom-width{
 		width:70%;
@@ -187,7 +187,7 @@
 }
 @media screen and (max-width : 428px) {
 	.form-bg-gradient{  
-		min-height: 150vh;
+		min-height: 125vh;
 	}
     .d-custom-width{
 		width:90%;
