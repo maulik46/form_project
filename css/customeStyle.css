@@ -17,12 +17,15 @@
 	width:300px;
 	background-color: #FF4E6F;
 	color:#fff!important;
+	border-radius: 5px;
+
 }
 
 
 .d-btn-signIn{
 	background-color:#E662D7;
 	color:#fff;
+	border-radius: 5px;
 }
 
 .forgot-password-link{
@@ -36,10 +39,12 @@
 .d-btn-facebook{
 	background-color:#29ABE2;
 	color:#fff!important;
+	border-radius: 5px;
 }
 .d-btn-google{
 	background-color:#1B1464;
 	color:#fff!important;
+	border-radius: 5px;
 }
 .d-signup-form input::placeholder{
 	color:#b3b3b3;
@@ -48,6 +53,7 @@
 	border-width: 2px;
 	background-color:#f1eded;
 	border-color:#e8e5e5;
+	border-radius: 3px;
 
 }
 .d-signup-form input:focus{
@@ -57,7 +63,7 @@
 }
 
 .form-bg-gradient .rounded-sm{
-	border-radius: 2px!important;
+	/* border-radius: 5px!important; */
 }
 
 .d-signup-form .terms-policy-text{
