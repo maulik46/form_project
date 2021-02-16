@@ -1,0 +1,67 @@
+.form-bg-gradient{  
+	height: 100vh;  background: transparent
+	linear-gradient(60deg, #FF4E6F 0%, #FE4E71 30%, #FC5079 48%, #F85288 63%,
+	#F4569C 77%, #ED5BB6 89%, #E661D6 100%, #E662D7 100%) 0% 0% no-repeat
+	padding-box;  
+}
+
+.d-signup-form .btn-signup{
+	width:300px;
+}
+.d-signup-form input{
+	border-width: 2px;
+	background-color:#f1eded;
+	border-color:#e8e5e5;
+
+}
+.d-signup-form input:focus{
+	border-color:#FF4E6F;
+	background-color:#f1eded;
+	box-shadow: none;
+}
+
+
+.d-signup-form .terms-policy-text{
+	font-size: 14px;
+}
+
+.font-size-12px{
+	font-size:12px;
+}
+.font-size-13px{
+	font-size:13px;
+}
+.font-size-14px{
+	font-size:14px;
+}
+.font-size-15px{
+	font-size:15px;
+}
+.font-size-16px{
+	font-size:16px;
+}
+.font-size-17px{
+	font-size:17px;
+}
+.font-size-18px{
+	font-size:18px;
+}
+.font-size-19px{
+	font-size:19px;
+}
+.font-size-20px{
+	font-size:20px;
+}
+.font-size-21px{
+	font-size:21px;
+}
+.font-size-22px{
+	font-size:22px;
+}
+.font-size-23px{
+	font-size:23px;
+}
+.font-size-24px{
+	font-size:24px;
+}
+
