@@ -37,6 +37,9 @@
 	background-color:#1B1464;
 	color:#fff!important;
 }
+.d-signup-form input::placeholder{
+	color:#b3b3b3;
+}
 .d-signup-form input{
 	border-width: 2px;
 	background-color:#f1eded;
@@ -47,6 +50,10 @@
 	border-color:#FF4E6F;
 	background-color:#f1eded;
 	box-shadow: none;
+}
+
+.form-bg-gradient .rounded-sm{
+	border-radius: 2px!important;
 }
 
 .d-signup-form .terms-policy-text{
