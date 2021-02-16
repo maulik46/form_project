@@ -9,6 +9,10 @@
 	background: transparent linear-gradient(210deg, #FF4E6F 0%, #FF506B 27%, #FF5961 47%, #FF6751 66%, #FF7B39 84%, #FF931E 100%) 0% 0% no-repeat padding-box;
 }
 
+.form-shadow-lg{
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
 .d-btn-signup{
 	width:300px;
 	background-color: #FF4E6F;
