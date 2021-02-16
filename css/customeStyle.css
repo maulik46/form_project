@@ -5,8 +5,26 @@
 	padding-box;  
 }
 
-.d-signup-form .btn-signup{
+.form-left-gradient{
+	background: transparent linear-gradient(210deg, #FF4E6F 0%, #FF506B 27%, #FF5961 47%, #FF6751 66%, #FF7B39 84%, #FF931E 100%) 0% 0% no-repeat padding-box;
+}
+
+.d-btn-signup{
 	width:300px;
+	background-color: #FF4E6F;
+	color:#fff!important;
+}
+.d-btn-signIn{
+	background-color:#E662D7;
+	color:#fff;
+}
+.d-btn-facebook{
+	background-color:#1B1464;
+	color:#fff!important;
+}
+.d-btn-google{
+	background-color:#29ABE2;
+	color:#fff!important;
 }
 .d-signup-form input{
 	border-width: 2px;
