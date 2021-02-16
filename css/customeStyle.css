@@ -187,7 +187,7 @@
 }
 @media screen and (max-width : 428px) {
 	.form-bg-gradient{  
-		min-height: 105vh;
+		min-height: 100vh;
 	}
     .d-custom-width{
 		width:90%;
